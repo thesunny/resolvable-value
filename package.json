@@ -1,10 +1,13 @@
 {
   "name": "resolvable-value",
+  "description": "Resolves functions and promises to a value with TypeScript type safety",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Sunny Hirai",
   "files": [
-    ".dist/**/*"
+    ".dist/**/*",
+    "README.md",
+    "LICENSE.txt"
   ],
   "main": ".dist/cjs/src/index.js",
   "module": ".dist/mjs/src/index.js",
