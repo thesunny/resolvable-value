@@ -1,7 +1,7 @@
 {
   "name": "resolvable-value",
   "description": "Resolves functions and promises to a value with TypeScript type safety",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Sunny Hirai",
   "files": [
